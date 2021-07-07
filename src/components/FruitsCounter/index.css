@@ -1,0 +1,61 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffd569;
+  padding: 10px;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.inner-container {
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin: 60px;
+}
+
+.heading-1 {
+  color: #000000;
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 20px;
+}
+
+.counter-style {
+  color: #ffd569;
+}
+
+.fruits-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.fruits-inner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.img-style {
+  width: 50%;
+  height: 50%;
+}
+
+.button-style {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  border-width: 0;
+  width: 100px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
